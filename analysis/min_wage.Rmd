@@ -1,0 +1,21 @@
+---
+title: "Minimum Wage Analysis"
+author: "Michele"
+date: "2025-09-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The idea is to use the famous Card dataset to replicate his results.
+
+```{r}
+# RUN ONLY THE FIRST TIME
+#install.packages(c("tidyverse", "fixest", "broom", "ggplot2", "knitr", "modelsummary"))
+```
+
+
+
+
